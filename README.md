@@ -1,13 +1,13 @@
 # Libary-Managenment-System
  I created a library management system using MySQL, designing efficient databases and optimized queries for book, user, loan, and reservation management. This project honed my skills in database design, SQL, and performance optimization.
 
-Objective
+# Objective
 In this project you will build a database for a public library. This database is aimed to collect and analyze information about the clients' reading interests. The project concentrates only on books and the clients' interests in books. The analyses that will result from this project will be used by the library's management to decide on the future purchasing policy. 
 
-Data Generation
+# Data Generation
 For populating this database we will use the Study.com’s data which is given for the Computer Science 204 class.You can find this data at the end of the project.
 
-Questions
+# Questions
 1)Display all contents of the Clients table
 2)First names, last names, ages and occupations of all clients
 3)First and last names of clients that borrowed books in March 2018
